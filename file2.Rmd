@@ -1,0 +1,17 @@
+---
+title: "file2"
+author: "Kimberly McNeil"
+date: "4/21/2026"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<h1>Groal the (Not So) Great</h1>
+
+<p1>
+  Groal sucks. I found the hidden bench near by and it's <b1>STILL</b1> a trek to get there. And the worst part? Bilewater isn't    even <i>bad</i>, it's the GAUNTLET THAT THROWS YOU LIKE A RAGDOLL BEFORE THE FIGHT EVEN STARTS. EVERY TIME. Wreath of purity helps, but not when that RAT decides to contact damage you every two seconds because you prefer a Wanderer-melee style. LL felt easier sometimes.
+</p1>

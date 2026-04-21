@@ -1,0 +1,24 @@
+---
+title: "file1"
+author: "Kimberly McNeil"
+date: "4/21/2026"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<h1>My Days</h1>
+
+<p>
+  I get up, go to class, do clubs/work, do homework, play games or read, then go to bed.
+</p>
+
+<p>
+  Current game is <a href="https://en.wikipedia.org/wiki/Hollow_Knight:_Silksong">Silksong</a>, which is fun :)
+</p>
+
+<p>
+  To read about the bane of my existence, visit my other <a href="file2.Rmd">page</a>
+</p>
